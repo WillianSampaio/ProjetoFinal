@@ -75,6 +75,7 @@ strong {
 
 #menu {
     float: left !important;
+	align-self: center;
 	overflow-y: hidden;
 	overflow-x: hidden;
     position:relative;
