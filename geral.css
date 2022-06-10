@@ -10,7 +10,7 @@
 body {
 	width: 790px;
 	margin: 0 auto;
-	background: #0099CC url(images/bg_gradient.gif) repeat-x top;
+	background: color= whitesmoke; /*url(images/bg_gradient.gif) repeat-x top;*/
 	position:relative;
 }
 
@@ -34,7 +34,7 @@ h2 {
 
 h1 {
 	font-variant: small-caps;
-	color: #0099CC;
+	color: #000000;
 }
 
 p {
