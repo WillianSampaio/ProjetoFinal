@@ -185,6 +185,8 @@ strong {
 
 #content div p {
 	padding-top: 10px;
+	position: fixed;
+	border-collapse: collapse;
 }
 
 #content div p a:link, #content div p a:visited, #content div p a:hover, #content div p a:active {
