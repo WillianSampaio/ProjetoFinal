@@ -75,6 +75,7 @@ strong {
 
 #menu {
     float: left !important;
+	text-align: center;
 	align-self: center;
 	overflow-y: hidden;
 	overflow-x: hidden;
@@ -87,6 +88,7 @@ strong {
 
 #menu li {
 	float: left !important;
+	text-align: center;
 	list-style-type: none;
 	padding-top: 5px;
 	color: #666666;
